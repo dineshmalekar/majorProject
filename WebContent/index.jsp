@@ -7,6 +7,7 @@
 <title>E-commerce site</title>
 </head>
 <body>
-
+<form>
+</form>
 </body>
 </html>
