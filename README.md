@@ -1,2 +1,5 @@
 majorProject
 ============
+
+authors:
+xlinkerz 
